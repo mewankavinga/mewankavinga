@@ -46,9 +46,9 @@
 
 
 
-[facebook]: https://www.facebook.com/devshanliyange/
-[instagram]: https://www.instagram.com/dev_va_/
-[linkedin]: https://www.linkedin.com/in/devshan-liyanage-a10412216/
+[facebook]: https://www.facebook.com/pasindu.mewan.9
+[instagram]: https://www.instagram.com/mewanzx/
+[linkedin]: https://www.linkedin.com/in/pasindu-managamage-0240031a7/
 [webdevplaylist]:#
 [jsplaylist]:#
 [cssplaylist]:#
