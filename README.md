@@ -1,11 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 😄 I’m Devshan, a Information Technology undergraduate at SLIIT.
+- 😄 I’m Mewan, a Software Engineering Undergraduate at University of Plymouth
 - 🌱 I enjoy learning new technologies.
-- 🔭 Find me on https://devshanliyanage.me/
 
-
+ 
 
 ### Connect with me:
 
